@@ -18,4 +18,4 @@
 * Wasp
 * Antman
 * Mr. Fantástico
-* Dr.. Strange
+* Drs. Strange
