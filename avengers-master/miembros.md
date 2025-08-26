@@ -17,5 +17,4 @@
 * Vision
 * Wasp
 * Antman
-* Mr. Fantástico
-* Drs. Strange
+* Dr. Strange
