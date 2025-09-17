@@ -18,3 +18,4 @@
 * Wasp
 * Antman
 * Dr. Strange
+* Namor
